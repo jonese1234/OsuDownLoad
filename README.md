@@ -13,6 +13,8 @@ Check for any with something like 2-4kb of data as these you have to manualy dow
 Zip them and upload them to something
 
 # Requires
-Python 3.3
-Bs4
+Python 3.3  
+
+Bs4  
+
 requests
